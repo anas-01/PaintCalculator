@@ -26,7 +26,7 @@ int main() {
 	cout << "The number of children in the vicinity of the structure to be painted: " << numOfChildren << "\n";
 	cout << "" "\n";
 
-	cout << "Enter number of days: ";
+	cout << "Enter number of days available to complete the job: ";
 	cin >> numOfDays;
 	cout << "" "\n";
 
